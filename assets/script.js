@@ -27,7 +27,7 @@ let inputlabelEl = document.createElement("p");
 let inputEl = document.createElement("input");
 let submitbuttonEl = document.createElement("button");
 
-let questionbank = ["Commonly used data types DO NOT include:", "The condition in an if/else statement is encolsed within _____.", "Arrays in JavaScript can be used to store _____.", "String values must be enclosed within _____ when being assigned to variables.", "A very useful tool used during development and bedugging for printing contet to the debugger is:"];
+let questionbank = ["Commonly used data types DO NOT include:", "The condition in an if/else statement is encolsed within _____.", "Arrays in JavaScript can be used to store _____.", "String values must be enclosed within _____ when being assigned to variables.", "A very useful tool used during development and bedugging for printing content to the debugger is:"];
 let options = ["strings","booleans","alerts","numbers","quotes","curly brackets","parentheses","square brackets","numbers and strings","other arrays","booleans","all the above","commas","curly brackets","quotes","parentheses","JavaScript","terminal.bash","for loops","console log"]
 let answers = ["alerts","parentheses","all the above","quotes","console log"];
 
