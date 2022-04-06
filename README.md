@@ -40,4 +40,4 @@ limitations under the License.
 ## GitHub and Link to Deployed Application
 Github: sevaggap
 <br>
-Application: https://sevaggap.github.io/UofT-SCS-Coding-Bootcamp-Homework-4-Code-Quiz/
+Application: https://sevaggap.github.io/Code-Quiz/
